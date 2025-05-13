@@ -1,0 +1,7 @@
+[project]
+name = "mwater-api"
+version = "0.1.0"
+description = "Playing around with mWater API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
